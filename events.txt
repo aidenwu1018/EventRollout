@@ -1,1 +1,1 @@
-account_billing_info_updated_success
+account_billing_info_updated_success, payment_failed
